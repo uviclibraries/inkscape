@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<a href="https://inkscape.org/"><img src="https://media.inkscape.org/static/images/inkscape-logo.svg" alt="html logo" style="float:right";></a>
+<a href="https://inkscape.org/"><img src="https://media.inkscape.org/static/images/inkscape-logo.svg" alt="html logo" style="float:right"></a>
 
 # Introduction to _Inkscape_
 
