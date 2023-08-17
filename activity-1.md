@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 1-Installing _Inkscape_ and Introducing its Interface
+title: 1-Installing Inkscape & Interface Intro
 nav_order: 3
 parent: Workshop Activities
 ---
 
 # Installing _Inkscape_ and Introducing its Interface
 
-If you have not already sone so, please complete the [the pre-workshop section](#) before doing this tutorial. 
+If you have not already done so, please complete the [the pre-workshop section](#) before doing this tutorial. 
 
 Now it is time to install _Inkscape_ on your computer. **Note that this tutorial is for _Inkscape_ 1.2.** 
 
