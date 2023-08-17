@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Getting Started 
+title: 3-Make a Garden Gnome Poster 
 nav_order: 5
+parent: Workshop Activities
 ---
 
 # Make a poster for a missing garden gnome
