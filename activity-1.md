@@ -49,4 +49,4 @@ Image source: [The Inkscape Beginner's Guide (↪)](https://inkscape-manuals.rea
 
 **All done ✓** You are now ready to move on to your next tutorial. 
  
-[NEXT STEP: _Inkscape_'s Selector Tool](<!-- this link will need to be added once this tutorial is published-->){: .btn .btn-blue }
+[NEXT STEP: _Inkscape_'s Selector Tool](activity-2.html){: .btn .btn-blue }
