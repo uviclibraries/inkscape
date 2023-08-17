@@ -429,5 +429,5 @@ Now that you have a PDF of your poster for Sam, you can print it off and start p
 
 But, it was worth the wait because if Sam goes wandering again you have the skills to make a new poster in _Inkscape_. 
 
-[NEXT STEP: Additional Resources](parent: Workshop Activities.html){: .btn .btn-blue }
+[NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
 
