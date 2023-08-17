@@ -114,4 +114,4 @@ We have now covered the four features of the **Selector** tool. The **Selector**
 
 **All done ✓** You are now ready to move on to your next tutorial. 
 
-[NEXT STEP: Choose an _Inkscape_ activity to complete](<!-- this link will need to be added once this tutorial is published-->){: .btn .btn-blue }
+[NEXT STEP: Create a Poster](activity-3.html){: .btn .btn-blue }
