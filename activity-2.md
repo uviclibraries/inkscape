@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Using _Inkscape_'s Selector Tool
+title: 2-Using Inkscape's Selector Tool
 nav_order: 4
 parent: Workshop Activities
 ---
@@ -9,7 +9,7 @@ parent: Workshop Activities
 
 We are starting with the **Selector** tool because you will be using this for almost everything you make in _Inkscape_, especially moving objects around on the **page area**.
 
-The **Selector** tool is designed to help you do most of the things you'd ever want to do with an object: **move, scale, skew,** or **rotate** it.  
+The **Selector** tool is designed to help you do most of the things you'd ever want to do with an object: **move, scale,** or **rotate** it.  
 
 Take your time with this tutorial because the **Selector** tool can sometimes seem confusing until you get used to it. 
 
