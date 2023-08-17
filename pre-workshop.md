@@ -43,25 +43,6 @@ _Inkscape_ can import, combine, and export images and files in a number of popul
 
 One big advantage for _Inkscape_ is that this **a free program** with a wealth of available tutorials on the Internet and Youtube.
 
-## Learning objectives
-
-This workshop introduces you to working in _Inkscape_ and provides a few basic tutorials to help you get there.
-
-Depending on how many of our _Inkscape_ tutorials you complete, by the end of this workshop you will be able to do the following:
-
-* Describe situations where using _Inkscape_ is preferable to other graphics programs
-* Describe and locate some key tools in the _Inkscape_ tool library
-* Use or be familiar with the following _Inkscape_ tools: 
-  * align and distribute
-  * guides
-  * layers
-  * text boxes
-  * colour picker
-  * canvas options
-* Import and convert a raster image, like a .jpg or .png file, into an SVG file using the "bitmap tracer" tool
-* Describe and edit nodes
-* Import and export files
-
 ## The _Inkscape_ bonus: learning crossover
 All graphic-design softwares share some basic similarities, like the use of layers, grids, and rulers, and tools to draw, manipulate, and edit images on a canvas.
 
