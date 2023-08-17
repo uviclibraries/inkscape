@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 # Installing _Inkscape_ and Introducing its Interface
 
-If you have not already done so, please complete the [the pre-workshop section](#) before doing this tutorial. 
+If you have not already done so, please complete the [the pre-workshop section](pre-workshop.html) before doing this tutorial. 
 
 Now it is time to install _Inkscape_ on your computer. **Note that this tutorial is for _Inkscape_ 1.2.** 
 
