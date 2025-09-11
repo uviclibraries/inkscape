@@ -9,7 +9,7 @@ parent: Workshop Activities
 
 If you have not already done so, please complete the [the pre-workshop section](pre-workshop.html) before doing this tutorial. 
 
-Now it is time to install _Inkscape_ on your computer. **Note that this tutorial is for _Inkscape_ 1.2.** 
+Now it is time to install _Inkscape_ on your computer. **Note that this tutorial is for _Inkscape_ 1.4.** 
 
 Please ask for assistance if you run into any snags. Here we go! 
 
