@@ -79,13 +79,14 @@ Let's get practicing!
 >#### Tips
 >- When you click on a square you will notice that two-way-arrows appear around the outside edges of the square ![Inkscape selector tool cursor](images/two-way-arrow.png). 
 >- You can **click and hold on any one of the arrows** and then slide the square bigger and smaller.
+>- Holding the **ctrl** key will lock the proportions of the square while you change its size. 
 >- Notice that the **corner arrows** scale a square's size but also change its vertical and horizontal proportions. 
 >- The **edge arrows** (the top, right, bottom, and left arrows) also control scale, but only in one plane at at time.   
 >- Release the mouse hold to stop scaling. 
 
 ![Inkscape scale object practice](images/rescaled-squares.png)
 
-#### **2.4.** Click on a square until the corner two-way arrows become curved. 
+#### **2.4.** Click twice on a square until the corner two-way arrows become curved. 
 
 >#### Tips 
 >- Any unselected objects, like our example squares _not_ surrounded by two-way arrows, will need to be clicked on twice to make the curved two-way arrows appear. 
