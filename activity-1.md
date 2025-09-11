@@ -47,6 +47,14 @@ You should now see a blank page in _Inkscape_'s main interface, which should loo
 ![Inkscape interface map](https://inkscape-manuals.readthedocs.io/en/latest/_images/interface_areas.png)
 Image source: [The Inkscape Beginner's Guide (↪)](https://inkscape-manuals.readthedocs.io/en/latest/interface.html).  
 
+**1.6.** Get familiar with how to move around Inkscape: 
+
+- Left-click is to select
+- Mouse scroll wheel moves the page up and down
+- Shift + mouse scroll wheel moves the page side to side
+- Ctrl + mouse scroll wheel zooms in and out
+- Holding down the mouse scroll wheel drags the page around
+
 **All done ✓** You are now ready to move on to your next tutorial. 
  
 [NEXT STEP: _Inkscape_'s Selector Tool](activity-2.html){: .btn .btn-blue }
