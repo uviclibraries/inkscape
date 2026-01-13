@@ -48,7 +48,7 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 
 
 ### Practice
-#### 2.1. Save a gnome image from the [Pexels (↪)](https://www.pexels.com/search/gnomes/) website to your computer
+#### 2.1. Save a gnome image from the [Pexels (↪)](https://www.pexels.com/search/gnomes/){:target"_blank"} website to your computer
 
 >##### Tips
 >- Pexels is a website that offers free photos and videos for public use. 
